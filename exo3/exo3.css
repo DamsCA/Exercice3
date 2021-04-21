@@ -1,0 +1,32 @@
+@font-face
+{
+	font-family: ZenDots;
+	src: url("ZenDots-Regular.ttf")
+}
+
+*
+{
+	font-family: ZenDots;
+}
+
+p 
+{ 
+color: blue; 
+}
+
+img
+{
+    float: right;
+}
+
+nav a
+{
+	text-decoration: none;
+	color: black;
+}
+
+nav a:hover
+{
+	color: blue;
+}
+
